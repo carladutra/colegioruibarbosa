@@ -1,12 +1,14 @@
 
 body{
-    background-color: rgb(211, 206, 206);
+    background-color: #FFF;
+    
+    
 }
 
 .cabeçalho{
     background-color: white;
     border-radius: 20px;
-    
+    margin: 10px;
     display: flex;
     justify-content: space-around;
     
@@ -15,6 +17,7 @@ body{
 h1{
     text-align: center;
     color: rgb(30, 31, 31);
+    font-family: sans-serif;
 }
 
 .imagem_cabeçalho{
@@ -32,4 +35,50 @@ h1{
     padding: 25px;
     display: inline-block;
 }
+
+.main{
+    background: #e4dfdf;
+    text-align: justify;
+    width: 80%;
+    border-radius: 20px;
+    margin: auto;
+    padding: 50px;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cursos{
+    background: #e4dfdf;
+    text-align: justify;
+    width: 80%;
+    border-radius: 20px;
+    margin: auto;
+    padding: 50px;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.horario{
+        background: #e4dfdf;
+        text-align: justify;
+        width: 80%;
+        border-radius: 20px;
+        margin: auto;
+        padding: 50px;
+        align-items: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        
+    }
+
+.contato{
+    background: #e4dfdf;
+    text-align: justify;
+    width: 80%;
+    border-radius: 20px;
+    margin: auto;
+    padding: 50px;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
 
